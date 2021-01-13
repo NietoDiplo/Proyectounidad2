@@ -1,0 +1,20 @@
+.container{
+    text-align: justify;
+    font-family: cursive;
+    font-size: 15px;
+    }
+    .titulo{
+        text-align: center;
+        font-family: cursive;
+        font-size: 50px;
+    }
+    .footer{
+        background-color: rgb(163, 168, 172);
+        text-align: center;
+        font-size: 15px;
+        font-family: cursive;
+    }
+    .mb-3{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
